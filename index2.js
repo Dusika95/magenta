@@ -1,4 +1,5 @@
-function count(){
-    alert("27 and soon I will be 28 :( ")
-
-}
+function count() {
+    console.log("2");
+  }
+  
+count();
