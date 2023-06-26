@@ -1,5 +1,6 @@
 function greet(){
-    console.log('Greetings!');
+    let greeting = 'Greetings!';
+    console.log(greeting);
 }
 
 greet();
