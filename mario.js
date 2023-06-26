@@ -1,6 +1,7 @@
-function cheer(team, color) {
-    console.log(team);
-    console.log(color);
-}
 
-cheer('magenta', 'magenta');
+function cheer(team, color) {
+    console.log("Cheer for " + team + "!");
+    console.log("Cheer for " + color + "!");
+  }
+  
+  cheer('magenta', 'magenta');
