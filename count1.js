@@ -1,3 +1,3 @@
-function count() {
-  console.log("32");
+function count(parameter) {
+  console.log("Counting the countless " + parameter);
 }
