@@ -1,8 +1,6 @@
-function greet(){
-    let greeting = 'parameter';
-    let name = Klara;
-    console.log(greeting);
-    console.log(name);
+function greet(name) {
+  let greeting = "Greetings for the ";
+  console.log(greeting, name);
 }
 
 greet();
