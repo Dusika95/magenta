@@ -1,3 +1,5 @@
 function greet(){
-    console.log('klara');
+    console.log('Greetings!');
 }
+
+greet();
