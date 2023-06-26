@@ -1,5 +1,5 @@
 function greet(){
-    let greeting = 'Greetings!';
+    let greeting = 'parameter';
     let name = Klara;
     console.log(greeting);
     console.log(name);
