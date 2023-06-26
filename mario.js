@@ -1,3 +1,3 @@
 function cheer() {
-    console.log("Magenta");
+    console.log("Javascript");
 }
