@@ -1,4 +1,3 @@
-
-function count() {
-  console.log("7");
+function count(years, months) {
+  console.log(years, months);
 }
