@@ -1,7 +1,7 @@
 
-function cheer(team) {
-  console.log('Cheer for the' + team);
-}
-
-cheer('react-team');
-
+function cheer(team, color) {
+    console.log("Cheer for " + team + "!");
+    console.log("Cheer for " + color + "!");
+  }
+  
+  cheer('magenta', 'magenta');
