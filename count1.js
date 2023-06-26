@@ -1,3 +1,5 @@
-function count(years, months) {
-  console.log('Counting the countless' + years, months);
+
+function count(parameter) {
+  console.log("Counting the countless " + parameter);
+
 }
